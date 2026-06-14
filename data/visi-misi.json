@@ -1,0 +1,57 @@
+{
+  "title": "Visi & Misi",
+  "iconImage": "/images/foto2/logo_preview_rev_1.png",
+  "subtitle": "Arah Pendidikan SMP PUI HAURGEULIS",
+  "visi": {
+    "title": "Visi",
+    "content": "Terwujudnya lulusan yang \"PRIMA\". Pandai, Religius, Inovatif, Mulia dalam Akhlak dan Aktif dalam memelihara lingkungan"
+  },
+  "misi": {
+    "title": "Misi",
+    "items": [
+      "Melaksanakan pembelajaran berbasis teknologi informasi untuk mewujudkan lulusan yang terdidik dan memiliki kepandaian serta keterampilan abad 21",
+      "Melaksanakan kegiatan keagamaan yang terprogram dan bekesinambungan untuk mewujudkan lulusan yang mempunyai sikap agamis dan taat terhadap terhadap agama yang dianut",
+      "Menyelenggarakan kegiatan ekstrakurikuler agar menumbuhkan lulusan inovatif dan kreatif",
+      "Menyelenggarakan pembinaan mental setelah sholat Dzuhur",
+      "Melaksanakan kegiatan jumsih (jum'at bersih) untuk mewujudkan lulusan yang aktif dalam memelihara lingkungan"
+    ]
+  },
+  "tujuan": {
+  "title": "Tujuan",
+  "items": [
+    "Terwujudnya warga sekolah dan lulusan yang terdidik dan memiliki kepandaian serta kompetensi abad 21",
+    "Terlaksananya kegiatan keagamaan yang terprogram dan berkesinambungan melalui kegiatan mengaji pagi dan Baca Tulis Al-Qur’an untuk membentuk lulusan yang agamis dan taat beragama",
+    "Teraihnya prestasi peringkat 1 perlombaan LKBB tingkat Provinsi Jawa Barat tahun 2021",
+    "Terwujudnya budaya saling menghormati antar warga sekolah setiap hari",
+    "Terwujudnya karakter peserta didik yang berbudi pekerti luhur atau mulia dalam akhlak",
+    "Tumbuhnya budaya membuang sampah pada tempatnya oleh seluruh warga sekolah",
+    "Terwujudnya kemampuan seluruh siswa dalam membaca Al-Qur’an dengan baik melalui tahapan pengenalan huruf, membaca, hingga menghafal"
+  ]
+},
+  "values": [
+    {
+      "title": "Iman & Akhlak",
+      "description": "Menjadikan nilai keislaman sebagai landasan dalam setiap aktivitas belajar dan bermasyarakat.",
+      "icon": "",
+      "iconImage": "/images/foto/22.jpeg"
+    },
+    {
+      "title": "Prestasi",
+      "description": "Mendorong semangat belajar tinggi, kompetisi sehat, dan apresiasi terhadap pencapaian akademik maupun non-akademik.",
+      "icon": "",
+      "iconImage": "/images/foto/WhatsApp Image 2026-02-16 at 11.55.02.jpeg"
+    },
+    {
+      "title": "Kemandirian",
+      "description": "Melatih siswa merencanakan belajar, mengelola waktu, dan bertanggung jawab atas pilihannya.",
+      "icon": "",
+      "iconImage": "/images/foto/OK 2.jpeg"
+    },
+    {
+      "title": "Kebersamaan",
+      "description": "Menumbuhkan rasa saling menghormati, gotong royong, dan kepedulian sosial di lingkungan sekolah.",
+      "icon": "",
+      "iconImage": "/images/foto/KOBER 2.jpg"
+    }
+  ]
+}

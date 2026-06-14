@@ -1,0 +1,36 @@
+{
+  "title": "Galeri Kegiatan",
+  "subtitle": "Dokumentasi Kegiatan Akademik, Keagamaan, dan Ekstrakurikuler SMP PUI HAURGEULIS",
+  "images": [
+    {
+      "src": "/images/foto/KOBER 1.jpg",
+      "alt": "SMP PUI HAURGEULIS — kegiatan upacara bendera",
+      "caption": "Upacara Bendera & Pembinaan Karakter"
+    },
+    {
+      "src": "/images/foto/KOBER 2.jpg",
+      "alt": "SMP PUI HAURGEULIS — kegiatan shalat berjamaah",
+      "caption": "Shalat Berjamaah & Pembiasaan Ibadah"
+    },
+    {
+      "src": "/images/foto/OK 3.jpeg",
+      "alt": "SMP PUI HAURGEULIS — pembelajaran di kelas",
+      "caption": "Pembelajaran Tatap Muka Interaktif"
+    },
+    {
+      "src": "/images/foto/WISUDA 2.jpg",
+      "alt": "SMP PUI HAURGEULIS — acara pelepasan siswa",
+      "caption": "Pelepasan & Apresiasi Siswa Kelas IX"
+    },
+    {
+      "src": "/images/foto/OK 2.jpeg",
+      "alt": "SMP PUI HAURGEULIS — kegiatan ekstrakurikuler",
+      "caption": "Ekstrakurikuler & Pengembangan Bakat"
+    },
+    {
+      "src": "/images/foto/IMG-20191210-WA0079.jpg",
+      "alt": "SMP PUI HAURGEULIS — studi wisata edukatif",
+      "caption": "Studi Wisata & Pembelajaran di Luar Kelas"
+    }
+  ]
+}

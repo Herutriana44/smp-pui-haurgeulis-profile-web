@@ -1,0 +1,36 @@
+{
+  "title": "Fasilitas",
+  "subtitle": "Sarana Pendukung Pembelajaran SMP yang Lengkap & Aman",
+  "facilities": [
+    {
+      "title": "Ruang Kelas & Multimedia",
+      "description": "Ruang kelas luas, ventilasi baik, dilengkapi proyektor atau LCD untuk pembelajaran interaktif. Tata letak meja kursi ergonomis mendukung diskusi kelompok maupun pembelajaran individual.",
+      "image": "/images/foto/7.jpeg"
+    },
+    {
+      "title": "Laboratorium IPA Terpadu",
+      "description": "Ruang praktikum untuk eksperimen fisika, biologi, dan kimia dasar dengan peralatan standar keselamatan, wastafel, dan penyimpanan bahan kimia sederhana sesuai protokol sekolah.",
+      "image": "/images/foto/6.jpg"
+    },
+    {
+      "title": "Laboratorium Komputer",
+      "description": "Akses perangkat komputer untuk pembelajaran TIK, literasi digital, riset sederhana, dan persiapan kompetensi dasar penggunaan aplikasi produktivitas.",
+      "image": "/images/foto/10.jpeg"
+    },
+    {
+      "title": "Perpustakaan & Baca Digital",
+      "description": "Koleksi buku pelajaran, fiksi remaja, ensiklopedia, serta aksus ke sumber belajar digital. Program jam baca dan klub literasi mingguan.",
+      "image": "/images/foto/taman baca.jpeg"
+    },
+    {
+      "title": "Lapangan Olahraga & Indoor",
+      "description": "Area lapangan untuk futsal/basket mini, senam, dan kegiatan upacara. Ruang indoor untuk olahraga saat cuaca tidak mendukung.",
+      "image": "/images/foto/OK 3.jpeg"
+    },
+    {
+      "title": "Musholla & Ruang Rohani",
+      "description": "Tempat ibadah siswa dan guru dengan jadwal shalat berjamaah duha, pembiasaan adab masjid, dan kegiatan Rohis.",
+      "image": "/images/foto/KOBER 1.jpg"
+    }
+  ]
+}

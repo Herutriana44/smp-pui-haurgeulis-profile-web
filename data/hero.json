@@ -1,0 +1,15 @@
+{
+  "brosurImage": "/images/foto/BROSUR CEPOT.jpg",
+  "title": "SMP PUI HAURGEULIS",
+  "subtitle": "Sekolah Menengah Pertama — Persatuan Umat Islam",
+  "description": "Kami menyediakan lingkungan belajar yang aman, tertib, dan inspiratif untuk peserta didik kelas VII, VIII, dan IX. Kurikulum Merdeka dipadukan dengan penguatan karakter Islami, literasi digital, dan pengembangan prestasi akademik maupun non-akademik.",
+  "cta_primary": "Daftar Sekarang",
+  "cta_secondary": "Pelajari Lebih Lanjut",
+  "image": "/images/foto/WISUDA 2.jpg",
+  "stats": [
+    { "value": "3", "label": "Tingkat Kelas (VII–IX)" },
+    { "value": "A", "label": "Akreditasi" },
+    { "value": "15+", "label": "Tenaga Pendidik" },
+    { "value": "6+", "label": "Ekstrakurikuler" }
+  ]
+}

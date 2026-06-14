@@ -1,0 +1,24 @@
+{
+  "title": "Testimoni Wali Murid",
+  "subtitle": "Pengalaman Orang Tua Bersama SMP PUI HAURGEULIS",
+  "testimonials": [
+    {
+      "name": "Ibu Rina Kurniawati",
+      "role": "Wali Murid Kelas VII",
+      "content": "Sejak masuk sekolah ini, anak saya menjadi lebih mandiri dan bertanggung jawab. Program pembiasaan harian sangat membantu dalam membentuk karakter yang baik. Lingkungan sekolah juga terasa nyaman dan mendukung.",
+      "rating": 5
+    },
+    {
+      "name": "Bapak Dedi Saputra",
+      "role": "Wali Murid Kelas VIII",
+      "content": "Saya melihat perkembangan signifikan dalam cara berpikir anak saya. Ia menjadi lebih aktif bertanya dan berani menyampaikan pendapat. Komunikasi antara sekolah dan orang tua juga berjalan dengan baik.",
+      "rating": 5
+    },
+    {
+      "name": "Ibu Nur Aisyah",
+      "role": "Orang Tua Alumni",
+      "content": "Sekolah ini memberikan fondasi yang kuat bagi anak kami, baik dari sisi akademik maupun akhlak. Setelah lulus, anak kami mampu beradaptasi dengan baik di sekolah lanjutan dan tetap menjaga nilai-nilai yang telah diajarkan.",
+      "rating": 5
+    }
+  ]
+}

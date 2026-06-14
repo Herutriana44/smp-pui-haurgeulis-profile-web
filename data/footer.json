@@ -1,0 +1,19 @@
+{
+  "brand": "SMP PUI HAURGEULIS",
+  "description": "Sekolah Menengah Pertama di bawah naungan Persatuan Umat Islam (PUI) yang mengedepankan prestasi akademik, karakter Islami, dan pengembangan potensi siswa melalui pembelajaran bermakna dan kegiatan ekstrakurikuler yang beragam.",
+  "quick_links": [
+    { "label": "Tentang Kami", "href": "#tentang" },
+    { "label": "Program", "href": "#program" },
+    { "label": "Ekstrakurikuler", "href": "#ekstrakurikuler" },
+    { "label": "Fasilitas", "href": "#fasilitas" },
+    { "label": "Galeri", "href": "#galeri" },
+    { "label": "Kontak", "href": "#kontak" }
+  ],
+  "programs": [
+    { "label": "Kelas VII", "href": "#program" },
+    { "label": "Kelas VIII", "href": "#program" },
+    { "label": "Kelas IX", "href": "#program" },
+    { "label": "Ekstrakurikuler", "href": "#ekstrakurikuler" }
+  ],
+  "copyright": "2026 SMP PUI HAURGEULIS. Hak Cipta Dilindungi."
+}

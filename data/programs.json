@@ -1,0 +1,43 @@
+{
+  "title": "Program Pembelajaran",
+  "subtitle": "Struktur Kelas & Fokus Pembelajaran SMP",
+  "program_unggulan": "Tahfidz Juz ’Amma, Literasi & Numerasi, serta Pengembangan IT",
+  "programs": [
+    {
+      "title": "Kelas VII — Adaptasi & Fondasi",
+      "description": "Tahun pertama menengah: pembiasaan budaya belajar mandiri, literasi dasar yang kuat, dan pengenalan mata pelajaran inti (Bahasa Indonesia, Matematika, IPA, IPS, Bahasa Inggris, PPKn, Seni, PJOK, dan muatan lokal). Siswa dibimbing melalui pendampingan wali kelas dan program orientasi siswa baru.",
+      "features": [
+        "Literasi & numerasi intensif",
+        "OSIS & pembiasaan sekolah",
+        "Bimbingan konseling masuk SMP",
+        "Assessment diagnostik berkala"
+      ],
+      "icon": "",
+      "iconImage": "/images/foto2/logo_preview_rev_1.png"
+    },
+    {
+      "title": "Kelas VIII — Penguatan & Eksplorasi",
+      "description": "Pendalaman materi inti dengan proyek lintas mata pelajaran, eksperimen IPA terstruktur, dan pengenalan jalur pendidikan lanjut. Fokus pada penalaran matematis, kemampuan menulis ilmiah sederhana, dan partisipasi dalam olimpiade tingkat sekolah/kabupaten.",
+      "features": [
+        "Proyek P5 & kolaborasi tim",
+        "Olimpiade sains & matematika",
+        "Studi lapangan terpilih",
+        "Penguatan bahasa Inggris"
+      ],
+      "icon": "",
+      "iconImage": "/images/foto2/logo_preview_rev_1.png"
+    },
+    {
+      "title": "Kelas IX — Persiapan & Arah Lanjut",
+      "description": "Persiapan ujian sekolah, try out, bimbingan memilih SMA/SMK/MA, serta pendalaman materi ujian. Program bimbingan karier singkat, simulasi ujian, dan pendampingan orang tua untuk transisi ke pendidikan menengah atas.",
+      "features": [
+        "Try out & simulasi ujian",
+        "Bimbingan lanjut SMA/SMK/MA",
+        "Konseling akademik kelas IX",
+        "Penguatan spiritual menjelang tamat"
+      ],
+      "icon": "",
+      "iconImage": "/images/foto2/logo_preview_rev_1.png"
+    }
+  ]
+}

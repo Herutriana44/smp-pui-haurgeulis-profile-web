@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Palette: primary #00d084 — hijau mint; turunan selaras hue ~155–170 */
+@layer base {
+  :root {
+    --background: 156 42% 98%;
+    --foreground: 168 38% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 168 38% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 168 38% 11%;
+    /* #00d084 */
+    --primary: 162 100% 41%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 158 32% 94%;
+    --secondary-foreground: 168 38% 11%;
+    --muted: 156 28% 92%;
+    --muted-foreground: 165 14% 40%;
+    --accent: 164 48% 90%;
+    --accent-foreground: 168 42% 12%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 158 22% 87%;
+    --input: 158 22% 87%;
+    --ring: 162 100% 41%;
+    --chart-1: 162 100% 41%;
+    --chart-2: 168 58% 36%;
+    --chart-3: 150 42% 42%;
+    --chart-4: 172 48% 38%;
+    --chart-5: 44 88% 54%;
+    --radius: 0.75rem;
+    --sidebar-background: 156 38% 97%;
+    --sidebar-foreground: 168 32% 18%;
+    --sidebar-primary: 162 100% 41%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 158 30% 93%;
+    --sidebar-accent-foreground: 168 32% 18%;
+    --sidebar-border: 158 20% 88%;
+    --sidebar-ring: 162 100% 41%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

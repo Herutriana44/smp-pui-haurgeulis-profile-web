@@ -1,0 +1,17 @@
+{
+  "brand": "SMP PUI HAURGEULIS",
+  "brandImage": "/images/foto2/logo_preview_rev_1.png",
+  "brandImageAlt": "Logo SMP PUI HAURGEULIS",
+  "links": [
+    { "label": "Beranda", "href": "#beranda" },
+    { "label": "Tentang", "href": "#tentang" },
+    { "label": "Visi & Misi", "href": "#visi-misi" },
+    { "label": "Program", "href": "#program" },
+    { "label": "Ekstrakurikuler", "href": "#ekstrakurikuler" },
+    { "label": "Fasilitas", "href": "#fasilitas" },
+    { "label": "Guru", "href": "#guru" },
+    { "label": "Galeri", "href": "#galeri" },
+    { "label": "Kontak", "href": "#kontak" }
+  ],
+  "cta": { "label": "Daftar", "href": "#kontak" }
+}

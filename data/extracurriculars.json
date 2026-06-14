@@ -1,0 +1,42 @@
+{
+  "title": "Ekstrakurikuler",
+  "subtitle": "Kegiatan Pengembangan Diri, Karakter, dan Prestasi Non-Akademik",
+  "lead": "SMP PUI Haurgeulis menyediakan beragam kegiatan ekstrakurikuler yang terjadwal, dibimbing oleh pembina yang kompeten, dan disesuaikan dengan minat serta kebutuhan peserta didik kelas VII, VIII, dan IX. Setiap kegiatan dirancang untuk melatih kerja sama, kepemimpinan, disiplin, dan nilai-nilai keislaman.",
+  "items": [
+    {
+      "title": "Pramuka",
+      "description": "Kegiatan kepramukaan sebagai wadah pembentukan karakter, kemandirian, dan cinta alam sesuai nilai dasar dan tujuan gerakan pramuka.",
+      "detail": "Latihan rutin mingguan, perkemahan, dan kegiatan tingkat gugus depan. Peserta mengikuti pendidikan keterampilan baris-berbaris, tali-temali, pertolongan pertama, serta pengembangan jiwa kepemimpinan melalui struktur pangkalan dan regu.",
+      "features": ["Siaga hingga Penegak/Pandega", "Latihan & perkemahan", "Pembina berpengalaman"],
+      "iconImage": "/images/foto/6.jpg"
+    },
+    {
+      "title": "Paskibraka",
+      "description": "Pembinaan keterampilan dan pengembangan karakter siswa melalui kegiatan paskibraka yang memiliki nilai-nilai keislaman dan keagamaan. Siswa memperoleh pengalaman berorganisasi, mengikuti latihan baris-berbaris, menampilkan prestasi di berbagai acara sekolah, dan mengembangkan kepribadian yang disiplin, bersemangat, dan berjiwa patriotisme.",
+      "detail": "Pembinaan paskibraka dilaksanakan secara rutin setiap minggu dengan jadwal yang telah ditentukan oleh panitia paskibraka. Peserta didik mengikuti latihan baris-berbaris yang terstruktur dan sistematis untuk mengembangkan keterampilan dan keterampilan di bidang seni tarik, seni lipat, seni tarik, dan seni musik. Selain itu, peserta didik juga akan memperoleh pengalaman mengikuti kegiatan-kegiatan lain yang relevan dengan paskibraka, seperti perkemahan, pembinaan kepribadian, dan pengembangan jiwa patriotisme.",
+      "features": ["Pembinaan karakter", "Pembinaan kepribadian", "Pengembangan jiwa patriotisme"],
+      "iconImage": "/images/foto/paskibraka.jpeg"
+    },
+    {
+      "title": "Futsal",
+      "description": "Pembinaan fisik, sportivitas, dan kerja sama tim melalui cabang olahraga populer yang kompetitif namun tetap edukatif.",
+      "detail": "Seleksi anggota tim, latihan teknik dasar, strategi permainan, dan partisipasi dalam turnamen antarsekolah atau kecamatan. Dilengkapi pembinaan nutrisi dan pencegahan cedera sederhana.",
+      "features": ["Tim putra & putri", "Latihan terstruktur", "Event kompetitif"],
+      "iconImage": "/images/foto/7.jpeg"
+    },
+    {
+      "title": "PMR (Palang Merah Remaja)",
+      "description": "Pelatihan kesiapsiagaan, pertolongan pertama, dan kepedulian sosial dalam lingkungan sekolah dan masyarakat.",
+      "detail": "Materi PHBS, pertolongan pertama pada kecelakaan ringan, donor darah sukarela bersama instansi kesehatan, serta simulasi evakuasi. Anggota mendapat sertifikat keikutsertaan tingkat sekolah.",
+      "features": ["P3K & evakuasi", "Donor darah", "Kegiatan sosial"],
+      "iconImage": "/images/foto/10.jpeg"
+    },
+    {
+      "title": "English Club",
+      "description": "Pengayaan bahasa Inggris dan sains melalui diskusi, eksperimen sederhana, dan persiapan olimpiade tingkat kabupaten.",
+      "detail": "Sesi conversation club, debat bahasa Inggris tingkat pemula, serta praktikum IPA (fisika, biologi, kimia dasar) dengan protokol keselamatan. Siswa dibimbing menuju kompetisi sesuai minat.",
+      "features": ["Conversation & debat", "Praktikum IPA", "Olimpiade"],
+      "iconImage": "/images/foto/OK 2.jpeg"
+    }
+  ]
+}

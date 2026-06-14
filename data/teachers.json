@@ -1,0 +1,42 @@
+{
+  "title": "Tenaga Pendidik & Kependidikan",
+  "subtitle": "Tim Profesional yang Mendampingi Perkembangan Siswa SMP",
+  "teachers": [
+    {
+      "name": "Dr. H. Ahmad Fauzi, M.Pd",
+      "role": "Kepala Sekolah",
+      "description": "Memimpin perencanaan strategis sekolah, penjaminan mutu pendidikan, dan koordinasi dengan yayasan serta dinas pendidikan setempat. Berpengalaman lebih dari 15 tahun di dunia pendidikan menengah.",
+      "image": "/images/foto/8. PAS PHOTO.jpeg"
+    },
+    {
+      "name": "Umi Kusmaeti, S.Pd",
+      "role": "Wakil Kepala Sekolah — Kurikulum",
+      "description": "Mengawasi penyusunan program semester, evaluasi capaian pembelajaran, dan pendampingan guru dalam implementasi Kurikulum Merdeka serta asesmen.",
+      "image": "/images/foto/ibu kusmaeti.jpeg"
+    },
+    {
+      "name": "Eka Hartati, S.Pd",
+      "role": "Guru Matematika & Pembina Olimpiade",
+      "description": "Mengajar matematika kelas VII–IX, menyelenggarakan klub olimpiade matematika tingkat sekolah, dan pendampingan siswa berprestasi menuju kompetisi kabupaten.",
+      "image": "/images/foto/ibu eka hartati.png"
+    },
+    {
+      "name": "Nur Alimah, S.Pd",
+      "role": "Guru Bahasa Indonesia & Literasi",
+      "description": "Membimbing keterampilan menulis argumentasi, resensi buku, dan presentasi. Mengkoordinasikan program literasi sekolah dan perpustakaan hidup.",
+      "image": "/images/foto/ibu nur alimah.jpeg"
+    },
+    {
+      "name": "Latifah Azzukhrufiyah, S.S",
+      "role": "Guru Bahasa Inggris & English Club",
+      "description": "Mengembangkan kemampuan berbahasa Inggris melalui conversation club, drama sederhana, dan persiapan lomba debat bahasa Inggris tingkat pemula.",
+      "image": "/images/foto/ibu ifah.jpeg"
+    },
+    {
+      "name": "Nurul Fadhilah, S.Ag",
+      "role": "Guru PAI & Pembina Rohis",
+      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
+      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+    }
+  ]
+}
