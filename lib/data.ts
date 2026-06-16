@@ -29,7 +29,10 @@ export async function getHero() {
   try {
     const supabase = await createClient()
     const { data: hero } = await supabase.from("hero").select("*").limit(1).single()
-    if (!hero) return mapHero(fallback)
+    if (!hero) {
+      console.warn("Database warning: 'hero' table is empty or data not found.");
+      return mapHero(fallback);
+    }
     const { data: stats } = await supabase
       .from("hero_stats")
       .select("*")
@@ -66,7 +69,10 @@ export async function getAbout() {
   try {
     const supabase = await createClient()
     const { data } = await supabase.from("about").select("*").limit(1).single()
-    if (!data) return mapAbout(fallback)
+    if (!data) {
+      console.warn("Database warning: 'about' table is empty.");
+      return mapAbout(fallback);
+    }
     return {
       title: data.title,
       subtitle: data.subtitle,
@@ -88,7 +94,10 @@ export async function getVisiMisi() {
   try {
     const supabase = await createClient()
     const { data: vm } = await supabase.from("visi_misi").select("*").limit(1).single()
-    if (!vm) return fallback
+    if (!vm) {
+      console.warn("Database warning: 'visi_misi' table is empty.");
+      return fallback;
+    }
     const { data: values } = await supabase
       .from("visi_misi_values")
       .select("*")
