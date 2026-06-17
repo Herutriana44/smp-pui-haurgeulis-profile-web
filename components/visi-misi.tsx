@@ -11,6 +11,7 @@ import {
   DialogTitle,
 } from "@/components/ui/dialog"
 import { cn } from "@/lib/utils"
+import { EmptyContent } from "./empty-content"
 
 type VisiMisiData = {
   title: string
@@ -29,7 +30,7 @@ type ModalState =
 
 export function VisiMisi({ data }: { data: VisiMisiData | null }) {
   const [modal, setModal] = useState<ModalState>(null)
-  if (!data) return null
+  if (!data) return <EmptyContent label="Visi & Misi" />
   const visiMisiData = data
   const hasIconImage = visiMisiData.iconImage && visiMisiData.iconImage.trim() !== ""
 

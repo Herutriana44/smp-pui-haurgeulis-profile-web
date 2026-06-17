@@ -1,5 +1,6 @@
 import Image from "next/image"
 import { CheckCircle } from "lucide-react"
+import { EmptyContent } from "./empty-content"
 
 type AboutData = {
   title: string
@@ -11,7 +12,7 @@ type AboutData = {
 }
 
 export function About({ data }: { data: AboutData | null }) {
-  if (!data) return null
+  if (!data) return <EmptyContent label="Tentang" />
   const aboutData = data
   return (
     <section id="tentang" className="py-20">

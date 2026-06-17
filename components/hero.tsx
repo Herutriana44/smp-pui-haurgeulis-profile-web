@@ -3,6 +3,7 @@
 import { useState } from "react"
 import Image from "next/image"
 import RegistrationModal from './RegistrationModal'
+import { EmptyContent } from "./empty-content"
 
 type HeroData = {
   brosurImage?: string
@@ -17,7 +18,7 @@ type HeroData = {
 
 export function Hero({ data }: { data: HeroData | null }) {
   const [isModalOpen, setIsModalOpen] = useState(false)
-  if (!data) return null
+  if (!data) return <EmptyContent label="Hero" />
   const heroData = data
 
   return (
