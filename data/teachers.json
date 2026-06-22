@@ -5,146 +5,146 @@
     {
       "name": "Suharti, S.Pd",
       "role": "Kepala Sekolah",
-      "description": "Memimpin perencanaan strategis sekolah, penjaminan mutu pendidikan, dan koordinasi dengan yayasan serta dinas pendidikan setempat. Berpengalaman lebih dari 15 tahun di dunia pendidikan menengah.",
-      "image": "/images/foto/8. PAS PHOTO.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu eli.jpg"
     },
     {
       "name": "Hendri Indrayanto, S.Pd.I",
       "role": "Guru PAI",
-      "description": "Mengawasi penyusunan program semester, evaluasi capaian pembelajaran, dan pendampingan guru dalam implementasi Kurikulum Merdeka serta asesmen.",
-      "image": "/images/foto/ibu kusmaeti.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu eli.jpg"
     },
     {
       "name": "Yus Komala, S.Pd.I",
       "role": "Guru PAI",
-      "description": "Mengajar matematika kelas VII–IX, menyelenggarakan klub olimpiade matematika tingkat sekolah, dan pendampingan siswa berprestasi menuju kompetisi kabupaten.",
-      "image": "/images/foto/ibu eka hartati.png"
+      "description": "",
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Marlina, S.Pd",
       "role": "Guru Bahasa Indonesia",
-      "description": "Membimbing keterampilan menulis argumentasi, resensi buku, dan presentasi. Mengkoordinasikan program literasi sekolah dan perpustakaan hidup.",
-      "image": "/images/foto/ibu nur alimah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu marlin.jpg"
     },
     {
       "name": "Yuni Yanti S, S.Pd",
       "role": "Guru Bahasa Indonesia",
-      "description": "Membimbing keterampilan menulis argumentasi, resensi buku, dan presentasi. Mengkoordinasikan program literasi sekolah dan perpustakaan hidup.",
-      "image": "/images/foto/ibu nur alimah.jpeg"
+      "description": "",
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Eli Siti Halimah S.Pd",
       "role": "Guru IPA",
-      "description": "Mengembangkan kemampuan berbahasa Inggris melalui conversation club, drama sederhana, dan persiapan lomba debat bahasa Inggris tingkat pemula.",
-      "image": "/images/foto/ibu ifah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu marlin.jpg"
     },
     {
       "name": "Ade Aprilia Andini, S.Pd",
       "role": "Guru IPA",
-      "description": "Mengembangkan kemampuan berbahasa Inggris melalui conversation club, drama sederhana, dan persiapan lomba debat bahasa Inggris tingkat pemula.",
-      "image": "/images/foto/ibu ifah.jpeg"
+      "description": "",
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Indah Nurnanah, S.Pd",
       "role": "Guru Bahasa Inggris",
-      "description": "Mengembangkan kemampuan berbahasa Inggris melalui conversation club, drama sederhana, dan persiapan lomba debat bahasa Inggris tingkat pemula.",
-      "image": "/images/foto/ibu ifah.jpeg"
+      "description": "",
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Inka Anggraeni, S.Pd",
       "role": "Guru Bahasa Inggris",
-      "description": "Mengembangkan kemampuan berbahasa Inggris melalui conversation club, drama sederhana, dan persiapan lomba debat bahasa Inggris tingkat pemula.",
-      "image": "/images/foto/ibu ifah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu suharti.jpg"
     },
     {
       "name": "Devi Yuliastanti, S.Si",
       "role": "Guru Bahasa Inggris",
-      "description": "Mengembangkan kemampuan berbahasa Inggris melalui conversation club, drama sederhana, dan persiapan lomba debat bahasa Inggris tingkat pemula.",
-      "image": "/images/foto/ibu ifah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu eli.jpg"
     },
     {
       "name": "Dwi Santoso, S.Kom",
       "role": "Guru Informatika",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu marlin.jpg"
     },
     {
       "name": "Sunanta, S.Kom",
       "role": "Guru Informatika",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-4.jpg"
     },
     {
       "name": "One Patmawati, S.Pd. M.M.",
       "role": "Guru Pendidikan Pancasila",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-4.jpg"
     },
     {
       "name": "Kholik,S.HI, M.Pd",
       "role": "Guru Pendidikan Pancasila",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu suharti.jpg"
     },
     {
       "name": "Entrini, S.Pd",
       "role": "Guru Matematika",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu marlin.jpg"
     },
     {
       "name": "Rahmat Nopiawan, S.Pd",
       "role": "Guru Matematika",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/bu marlin.jpg"
     },
     {
       "name": "Deni Aria Wijaya, S.Pd",
       "role": "Guru PJOK",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-3.jpg"
     },
     {
       "name": "Sulaiman",
       "role": "Guru ke-PUI-an",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-4.jpg"
     },
     {
       "name": "Ust. Abdul Hasan Ali R, S.Pd.I",
       "role": "Guru Keagamaan",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-4.jpg"
     },
     {
       "name": "Ustj. Yuliana Nuban",
       "role": "Guru Keagamaan",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Rudiyanto",
       "role": "Kepala TU",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-4.jpg"
     },
     {
       "name": "Silmi Kafatun",
       "role": "Bendahara Sekolah",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/pak sulaeman.jpg"
     },
     {
       "name": "Ahmad Insan Ramatan",
       "role": "Tata Usaha",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Firman Mustakim",
       "role": "Satpam Sekolah",
-      "description": "Mengajar Pendidikan Agama Islam, membimbing kegiatan Rohis, kajian rutin, serta integrasi nilai-nilai keislaman dalam kehidupan sehari-hari siswa.",
-      "image": "/images/foto/ibu nurul fadhilah.jpeg"
+      "description": "",
+      "image": "/images/foto2/guru/pak hendri.jpg"
     }
   ]
 }
