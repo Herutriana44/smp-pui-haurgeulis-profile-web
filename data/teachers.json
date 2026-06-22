@@ -6,13 +6,13 @@
       "name": "Suharti, S.Pd",
       "role": "Kepala Sekolah",
       "description": "",
-      "image": "/images/foto2/guru/bu eli.jpg"
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Hendri Indrayanto, S.Pd.I",
       "role": "Guru PAI",
       "description": "",
-      "image": "/images/foto2/guru/bu eli.jpg"
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Yus Komala, S.Pd.I",
@@ -24,7 +24,7 @@
       "name": "Marlina, S.Pd",
       "role": "Guru Bahasa Indonesia",
       "description": "",
-      "image": "/images/foto2/guru/bu marlin.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Yuni Yanti S, S.Pd",
@@ -36,7 +36,7 @@
       "name": "Eli Siti Halimah S.Pd",
       "role": "Guru IPA",
       "description": "",
-      "image": "/images/foto2/guru/bu marlin.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Ade Aprilia Andini, S.Pd",
@@ -54,19 +54,25 @@
       "name": "Inka Anggraeni, S.Pd",
       "role": "Guru Bahasa Inggris",
       "description": "",
-      "image": "/images/foto2/guru/bu suharti.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Devi Yuliastanti, S.Si",
-      "role": "Guru Bahasa Inggris",
+      "role": "Guru IPS",
       "description": "",
-      "image": "/images/foto2/guru/bu eli.jpg"
+      "image": "/images/teacher-2.jpg"
+    },
+    {
+      "name": "Zaky Subagya Aji, S.Hum",
+      "role": "Guru IPS",
+      "description": "",
+      "image": "/images/teacher-2.jpg"
     },
     {
       "name": "Dwi Santoso, S.Kom",
       "role": "Guru Informatika",
       "description": "",
-      "image": "/images/foto2/guru/bu marlin.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Sunanta, S.Kom",
@@ -84,19 +90,19 @@
       "name": "Kholik,S.HI, M.Pd",
       "role": "Guru Pendidikan Pancasila",
       "description": "",
-      "image": "/images/foto2/guru/bu suharti.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Entrini, S.Pd",
       "role": "Guru Matematika",
       "description": "",
-      "image": "/images/foto2/guru/bu marlin.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Rahmat Nopiawan, S.Pd",
       "role": "Guru Matematika",
       "description": "",
-      "image": "/images/foto2/guru/bu marlin.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Deni Aria Wijaya, S.Pd",
@@ -132,7 +138,7 @@
       "name": "Silmi Kafatun",
       "role": "Bendahara Sekolah",
       "description": "",
-      "image": "/images/foto2/guru/pak sulaeman.jpg"
+      "image": "/images/teacher-1.jpg"
     },
     {
       "name": "Ahmad Insan Ramatan",
@@ -144,7 +150,7 @@
       "name": "Firman Mustakim",
       "role": "Satpam Sekolah",
       "description": "",
-      "image": "/images/foto2/guru/pak hendri.jpg"
+      "image": "/images/teacher-1.jpg"
     }
   ]
 }
