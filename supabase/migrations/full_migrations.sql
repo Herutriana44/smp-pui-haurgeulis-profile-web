@@ -500,9 +500,9 @@ CREATE POLICY "Auth read chat_usage_log" ON chat_usage_log FOR SELECT USING (aut
 
 CREATE TABLE site_seo (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  site_name TEXT NOT NULL DEFAULT 'KOBER & TK IT SMART KIDS Haurgeulis',
+  site_name TEXT NOT NULL DEFAULT 'SMP PUI Haurgeulis',
   short_name TEXT DEFAULT 'TK IT SMART KIDS',
-  site_url TEXT NOT NULL DEFAULT 'https://kober-tk-smartkids-haurgeulis.vercel.app',
+  site_url TEXT NOT NULL DEFAULT 'https://smp-pui-haurgeulis.vercel.app',
   description TEXT DEFAULT '',
   keywords JSONB DEFAULT '[]',
   title_template TEXT DEFAULT 'Taman Kanak-Kanak Terdepan di Haurgeulis',
@@ -519,10 +519,10 @@ CREATE TABLE site_seo (
 INSERT INTO site_seo (id, site_name, short_name, site_url, description, keywords, title_template, robots_index, robots_follow, google_verification, open_graph_image, sitemap_entries)
 VALUES (
   '00000000-0000-0000-0000-000000000001',
-  'KOBER & TK IT SMART KIDS Haurgeulis',
+  'SMP PUI Haurgeulis',
   'TK IT SMART KIDS',
-  'https://kober-tk-smartkids-haurgeulis.vercel.app',
-  'KOBER & TK IT SMART KIDS Haurgeulis adalah lembaga pendidikan anak usia dini yang berkomitmen membangun generasi cerdas, kreatif, dan berkarakter mulia.',
+  'https://smp-pui-haurgeulis.vercel.app',
+  'SMP PUI Haurgeulis adalah lembaga pendidikan anak usia dini yang berkomitmen membangun generasi cerdas, kreatif, dan berkarakter mulia.',
   '["TK IT SMART KIDS","KOBER SMART KIDS","TK Haurgeulis","Taman Kanak-Kanak Haurgeulis","PAUD Haurgeulis","Pendidikan anak usia dini","TK Indramayu"]'::jsonb,
   'Taman Kanak-Kanak Terdepan di Haurgeulis',
   true,
